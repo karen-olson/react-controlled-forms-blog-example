@@ -1,206 +1,206 @@
 {
-    "recipes": [
-      {
-        "id": 2,
-        "name": "Vegan Burritos",
-        "category": "dinner",
-        "image": "https://veganheaven.org/wp-content/uploads/2019/06/Vegan-Burritos_.jpg",
-        "prepTimeInMinutes": 20,
-        "servings": 7,
-        "ingredients": [
-          "1 can black beans",
-          "1 can sweet corn",
-          "1 teaspoon paprika powder",
-          "1/2 teaspoon smoked paprika powder",
-          "1 teaspoon cumin",
-          "2 teaspoons fresh lime juice",
-          "2 green onions, cut into rings",
-          "1/2 cup freshly chopped cilantro",
-          "salt, to taste",
-          "black pepper, to taste",
-          "1 cup guacamole (homemade or store-bought)",
-          "1 cup salsa (homemade or store-bought)",
-          "3/4 cup vegan sour cream",
-          "1/2 cup vegan shredded cheese",
-          "3 cups shredded lettuce",
-          "3 cups cooked brown rice (seasoned with salt and 1 teaspoon of cumin)",
-          "6 large flour tortillas (use gluten-free ones if needed)"
-        ],
-        "instructions": [
-          "Drain and rinse the black beans and the corn. In a medium bowl, combine them with the paprika powder, cumin, smoked paprika powder, lime juice, salt, and pepper. Add the chopped green onions and the fresh cilantro and stir well.",
-          "Lay a tortilla down flat on a plate. Add some rice in the center of the tortilla. Then add some of the bean corn salad on top. Next comes some salsa, lettuce, vegan cheese, vegan sour cream, and avocado. If you want you could also sprinkle some red pepper flakes on top.",
-          "Fold in the sides and then roll the burrito up and wrap it in foil. Then cut it into half with a sharp knife. Enjoy!"
-        ],
-        "sourceUrl": "https://veganheaven.org/recipe/vegan-burrito/",
-        "likes": 20,
-        "saved": true
-      },
-      {
-        "name": "Chocolate Chip Cookies",
-        "category": "dessert",
-        "image": "https://joyfoodsunshine.com/wp-content/uploads/2018/02/best-chocolate-chip-cookies-recipe-5.jpg",
-        "prepTimeInMinutes": "30",
-        "servings": "36",
-        "ingredients": [
-          "1 cup salted butter* softened",
-          "1 cup white (granulated) sugar",
-          "1 cup light brown sugar packed",
-          "2 tsp pure vanilla extract",
-          "2 large eggs",
-          "3 cups all-purpose flour",
-          "1 tsp baking soda",
-          "½ tsp baking powder",
-          "1 tsp sea salt***",
-          "2 cups chocolate chips (or chunks, or chopped chocolate)"
-        ],
-        "instructions": [
-          "Preheat oven to 375 degrees F. Line a baking pan with parchment paper and set aside.",
-          "In a separate bowl mix flour, baking soda, salt, baking powder. Set aside.",
-          "Cream together butter and sugars until combined.",
-          "Beat in eggs and vanilla until fluffy.",
-          "Mix in the dry ingredients until combined.",
-          "Add 12 oz package of chocolate chips and mix well.",
-          "Roll 2-3 TBS (depending on how large you like your cookies) of dough at a time into balls and place them evenly spaced on your prepared cookie sheets. (alternately, use a small cookie scoop to make your cookies).",
-          "Bake in preheated oven for approximately 8-10 minutes. Take them out when they are just BARELY starting to turn brown.",
-          "Let them sit on the baking pan for 2 minutes before removing to cooling rack."
-        ],
-        "sourceUrl": "https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/#recipe",
-        "likes": 9,
-        "saved": true,
-        "id": 3
-      },
-      {
-        "name": "Gluten-Free Southern Fried Chicken",
-        "category": "dinner",
-        "image": "https://www.mamaknowsglutenfree.com/wp-content/uploads/2020/05/gluten-free-fried-chicken-2b.jpg",
-        "prepTimeInMinutes": 180,
-        "servings": 6,
-        "ingredients": [
-          "6 chicken thighs,6 chicken drumsticks,3 cups milk dairy-free use unsweetened almond milk, cashew or coconut milk,3 tablespoons white vinegar,2 teaspoons salt,1 teaspoon pepper2 cups all-purpose gluten-free flour",
-          "1 cup cornstarch",
-          "1 tablespoon onion powder",
-          "1 tablespoon garlic powder",
-          "2 teaspoons salt",
-          "1 tablespoon paprika",
-          "1 tablespoon dried thyme",
-          "1 tablespoon dried oregano",
-          "1 tablespoon dried basil",
-          "4 cup vegetable oil for frying I like peanut oil"
-        ],
-        "instructions": [
-          "In a large mixing bowl, whisk together milk, white vinegar, salt, and pepper. Add in chicken pieces. Cover the bowl with plastic wrap and refrigerate for at least 2 hours. It is best to allow the chicken to marinate overnight if you can.",
-          "Prepare the breading by combining the gluten-free flour, cornstarch, onion powder, garlic powder, salt, paprika, thyme, oregano, basil in a gallon-sized resealable plastic bag. Seal the bag and shake to combine the ingredients. Or combined the ingredients in a shallow dish.",
-          "Heat the vegetable oil in a 10\" cast iron skillet (or a large skillet) on medium heat, until 350°F. You can test the oil to see if it is hot enough by sprinkling a little bit of the flour mixture into the oil. It should sizzle, but not smoke.",
-          "Working one at a time, remove a chicken piece from the buttermilk mixture and place it in the bag with the gluten-free flour mixture. Seal the plastic bag completely and shake the bag to coat the chicken piece with the flour mixture. Place the coated chicken piece on a baking sheet. Repeat the steps until all the chicken pieces are coated.",
-          "Fry 3 or 4 pieces at a time (do not overcrowd the pan). Place the breaded chicken skin side down first into the 350°F oil. Watch the temperature of the oil, as the chicken causes the oil temperature to drop. Adjust your heat as needed to keep the chicken gently cooking. Fry each piece for 15-18 minutes, turning each piece over using tongs about every 2 minutes, until the chicken is fully cooked, golden brown, and reaches an internal temperature of 165°F.",
-          "Remove the chicken pieces from the oil with tongs and place them on a cooling rack or paper towel-lined baking sheet. Let the fried chicken rest for at least 10 minutes before serving. The chicken can be served warm or cold.",
-          "Store completely cooled leftovers in an air-tight container and refrigerate for up to 3 days.",
-          "Reheat chicken in the microwave or on a baking sheet and bake uncovered at 350°F for 15-20 minutes until the chicken is heated through."
-        ],
-        "sourceUrl": "https://www.mamaknowsglutenfree.com/gluten-free-fried-chicken/#recipe",
-        "likes": 14,
-        "saved": true,
-        "id": 4
-      },
-      {
-        "name": "Crispy Rosemary Chicken and Fries",
-        "category": "dinner",
-        "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2793307.jpg&w=596&h=792&c=sc&poi=face&q=85",
-        "prepTimeInMinutes": 75,
-        "servings": 6,
-        "ingredients": [
-          "8 chicken thighs",
-          "6 small red potatoes, quartered",
-          "1⁄2 cup extra-virgin olive oil, or as needed",
-          "1 tablespoon chopped fresh rosemary",
-          "1 1⁄2 teaspoons chopped fresh oregano",
-          "1 1⁄2 teaspoons garlic powder salt and pepper to taste"
-        ],
-        "instructions": [
-          "Preheat the oven to 375 degrees F (190 degrees C).",
-          "Place chicken and potatoes into a large bowl. Pour olive oil over them, and stir to coat. Scatter the chicken and potato pieces in a large baking dish, or cookie sheet with sides. Sprinkle with rosemary, oregano, garlic powder, salt and pepper.",
-          "Bake for 1 hour in the preheated oven, uncovered. Baste during the last 15 minutes for extra crispness."
-        ],
-        "sourceUrl": "https://www.allrecipes.com/recipe/77489/crispy-rosemary-chicken-and-fries/",
-        "likes": 3,
-        "saved": true,
-        "id": 5
-      },
-      {
-        "name": "Quinoa Lunch for One",
-        "category": "lunch",
-        "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7186650.jpg&w=596&h=596&c=sc&poi=face&q=85",
-        "prepTimeInMinutes": 30,
-        "servings": 1,
-        "ingredients": [
-          "½ cup water",
-          "½ cup thinly sliced carrots",
-          "¼ cup red quinoa",
-          "½ teaspoon chicken bouillon granules",
-          "1 cup chopped cooked broccoli",
-          "1 cup baby spinach, chopped"
-        ],
-        "instructions": [
-          "Combine water, carrots, quinoa, and chicken bouillon in a medium saucepan over medium heat. Bring to a boil; reduce heat and simmer until nearly all water has been absorbed and outer ring of quinoa grain is visible, 10 to 12 minutes.",
-          "Add broccoli and spinach to the pot, stir, and cover to allow spinach to wilt. Continue to cook until all water is absorbed and vegetables have been heated through, about 5 minutes more.",
-          "Spoon quinoa and veggies into a bowl and serve."
-        ],
-        "sourceUrl": "https://www.allrecipes.com/recipe/275130/quinoa-lunch-for-one/",
-        "likes": 0,
-        "saved": false,
-        "id": 6
-      },
-      {
-        "name": "Toasted Breakfast Burritos",
-        "category": "breakfast",
-        "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2562020.jpg&q=85",
-        "prepTimeInMinutes": 18,
-        "servings": 2,
-        "ingredients": [
-          "1 ½ tablespoons I Can't Believe It's Not Butter!® Spread, divided",
-          "½ cup finely chopped assorted fresh vegetables (peppers, tomatoes and/or green onions)",
-          "2 slices turkey bacon, chopped",
-          "2 each eggs",
-          "1 tablespoon water",
-          "1 tablespoon shredded low-fat Cheddar cheese",
-          "2 (6 inch) fajita size whole wheat tortillas"
-        ],
-        "instructions": [
-          "Melt 1 tablespoon I Can't Believe It's Not Butter!® Spread in medium nonstick skillet over medium-high heat and cook vegetables and bacon, stirring occasionally, until vegetables are tender and bacon is crisp, about 4 minutes.",
-          "Meanwhile, combine eggs and water in small bowl with wire whisk. Add eggs into skillet and stir until eggs are set. Remove egg and vegetable mixture from skillet and evenly divide between tortillas. Top with cheese; then roll.",
-          "To seal and toast burritos, wipe skillet with paper towels and melt remaining 1/2 tablespoon Spread over medium heat. Arrange burritos, seam-side-down and cook, turning once, until golden brown, about 2 minutes."
-        ],
-        "sourceUrl": "https://www.allrecipes.com/recipe/244830/toasted-breakfast-burritos/",
-        "likes": 0,
-        "saved": false,
-        "id": 7
-      },
-      {
-        "name": "Ranch Snack Mix",
-        "category": "snacks",
-        "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7748058.jpg&q=85",
-        "prepTimeInMinutes": 25,
-        "servings": 24,
-        "ingredients": [
-          "4 cups crispy corn and rice cereal (such as Crispix®)",
-          "2 ½ cups small pretzels",
-          "2 ½ cups cheese-flavored crackers (Optional)",
-          "2 cups oyster crackers",
-          "½ cup peanuts (Optional)",
-          "⅔ cup vegetable oil",
-          "1 (1 ounce) package ranch dressing mix",
-          "¼ teaspoon garlic powder"
-        ],
-        "instructions": [
-          "Preheat the oven to 275 degrees F (135 degrees C).",
-          "Combine cereal, pretzels, cheese-flavored crackers, oyster crackers, and peanuts in a large bowl.",
-          "Whisk vegetable oil, ranch dressing mix, and garlic powder together in a small bowl. Pour over cereal mixture and stir until coated. Arrange on a large baking sheet.",
-          "Bake in the preheated oven, stirring gently halfway through, until toasted and fragrant, 15 to 20 minutes."
-        ],
-        "sourceUrl": "https://www.allrecipes.com/recipe/277872/ranch-snack-mix/",
-        "likes": 0,
-        "saved": false,
-        "id": 8
-      }
-    ]
-  }
+  "recipes": [
+    {
+      "id": 2,
+      "name": "Vegan Burritos",
+      "category": "dinner",
+      "image": "https://veganheaven.org/wp-content/uploads/2019/06/Vegan-Burritos_.jpg",
+      "prepTimeInMinutes": 20,
+      "servings": 7,
+      "ingredients": [
+        "1 can black beans",
+        "1 can sweet corn",
+        "1 teaspoon paprika powder",
+        "1/2 teaspoon smoked paprika powder",
+        "1 teaspoon cumin",
+        "2 teaspoons fresh lime juice",
+        "2 green onions, cut into rings",
+        "1/2 cup freshly chopped cilantro",
+        "salt, to taste",
+        "black pepper, to taste",
+        "1 cup guacamole (homemade or store-bought)",
+        "1 cup salsa (homemade or store-bought)",
+        "3/4 cup vegan sour cream",
+        "1/2 cup vegan shredded cheese",
+        "3 cups shredded lettuce",
+        "3 cups cooked brown rice (seasoned with salt and 1 teaspoon of cumin)",
+        "6 large flour tortillas (use gluten-free ones if needed)"
+      ],
+      "instructions": [
+        "Drain and rinse the black beans and the corn. In a medium bowl, combine them with the paprika powder, cumin, smoked paprika powder, lime juice, salt, and pepper. Add the chopped green onions and the fresh cilantro and stir well.",
+        "Lay a tortilla down flat on a plate. Add some rice in the center of the tortilla. Then add some of the bean corn salad on top. Next comes some salsa, lettuce, vegan cheese, vegan sour cream, and avocado. If you want you could also sprinkle some red pepper flakes on top.",
+        "Fold in the sides and then roll the burrito up and wrap it in foil. Then cut it into half with a sharp knife. Enjoy!"
+      ],
+      "sourceUrl": "https://veganheaven.org/recipe/vegan-burrito/",
+      "likes": 20,
+      "saved": false
+    },
+    {
+      "name": "Chocolate Chip Cookies",
+      "category": "dessert",
+      "image": "https://joyfoodsunshine.com/wp-content/uploads/2018/02/best-chocolate-chip-cookies-recipe-5.jpg",
+      "prepTimeInMinutes": "30",
+      "servings": "36",
+      "ingredients": [
+        "1 cup salted butter* softened",
+        "1 cup white (granulated) sugar",
+        "1 cup light brown sugar packed",
+        "2 tsp pure vanilla extract",
+        "2 large eggs",
+        "3 cups all-purpose flour",
+        "1 tsp baking soda",
+        "½ tsp baking powder",
+        "1 tsp sea salt***",
+        "2 cups chocolate chips (or chunks, or chopped chocolate)"
+      ],
+      "instructions": [
+        "Preheat oven to 375 degrees F. Line a baking pan with parchment paper and set aside.",
+        "In a separate bowl mix flour, baking soda, salt, baking powder. Set aside.",
+        "Cream together butter and sugars until combined.",
+        "Beat in eggs and vanilla until fluffy.",
+        "Mix in the dry ingredients until combined.",
+        "Add 12 oz package of chocolate chips and mix well.",
+        "Roll 2-3 TBS (depending on how large you like your cookies) of dough at a time into balls and place them evenly spaced on your prepared cookie sheets. (alternately, use a small cookie scoop to make your cookies).",
+        "Bake in preheated oven for approximately 8-10 minutes. Take them out when they are just BARELY starting to turn brown.",
+        "Let them sit on the baking pan for 2 minutes before removing to cooling rack."
+      ],
+      "sourceUrl": "https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/#recipe",
+      "likes": 9,
+      "saved": false,
+      "id": 3
+    },
+    {
+      "name": "Gluten-Free Southern Fried Chicken",
+      "category": "dinner",
+      "image": "https://www.mamaknowsglutenfree.com/wp-content/uploads/2020/05/gluten-free-fried-chicken-2b.jpg",
+      "prepTimeInMinutes": 180,
+      "servings": 6,
+      "ingredients": [
+        "6 chicken thighs,6 chicken drumsticks,3 cups milk dairy-free use unsweetened almond milk, cashew or coconut milk,3 tablespoons white vinegar,2 teaspoons salt,1 teaspoon pepper2 cups all-purpose gluten-free flour",
+        "1 cup cornstarch",
+        "1 tablespoon onion powder",
+        "1 tablespoon garlic powder",
+        "2 teaspoons salt",
+        "1 tablespoon paprika",
+        "1 tablespoon dried thyme",
+        "1 tablespoon dried oregano",
+        "1 tablespoon dried basil",
+        "4 cup vegetable oil for frying I like peanut oil"
+      ],
+      "instructions": [
+        "In a large mixing bowl, whisk together milk, white vinegar, salt, and pepper. Add in chicken pieces. Cover the bowl with plastic wrap and refrigerate for at least 2 hours. It is best to allow the chicken to marinate overnight if you can.",
+        "Prepare the breading by combining the gluten-free flour, cornstarch, onion powder, garlic powder, salt, paprika, thyme, oregano, basil in a gallon-sized resealable plastic bag. Seal the bag and shake to combine the ingredients. Or combined the ingredients in a shallow dish.",
+        "Heat the vegetable oil in a 10\" cast iron skillet (or a large skillet) on medium heat, until 350°F. You can test the oil to see if it is hot enough by sprinkling a little bit of the flour mixture into the oil. It should sizzle, but not smoke.",
+        "Working one at a time, remove a chicken piece from the buttermilk mixture and place it in the bag with the gluten-free flour mixture. Seal the plastic bag completely and shake the bag to coat the chicken piece with the flour mixture. Place the coated chicken piece on a baking sheet. Repeat the steps until all the chicken pieces are coated.",
+        "Fry 3 or 4 pieces at a time (do not overcrowd the pan). Place the breaded chicken skin side down first into the 350°F oil. Watch the temperature of the oil, as the chicken causes the oil temperature to drop. Adjust your heat as needed to keep the chicken gently cooking. Fry each piece for 15-18 minutes, turning each piece over using tongs about every 2 minutes, until the chicken is fully cooked, golden brown, and reaches an internal temperature of 165°F.",
+        "Remove the chicken pieces from the oil with tongs and place them on a cooling rack or paper towel-lined baking sheet. Let the fried chicken rest for at least 10 minutes before serving. The chicken can be served warm or cold.",
+        "Store completely cooled leftovers in an air-tight container and refrigerate for up to 3 days.",
+        "Reheat chicken in the microwave or on a baking sheet and bake uncovered at 350°F for 15-20 minutes until the chicken is heated through."
+      ],
+      "sourceUrl": "https://www.mamaknowsglutenfree.com/gluten-free-fried-chicken/#recipe",
+      "likes": 14,
+      "saved": false,
+      "id": 4
+    },
+    {
+      "name": "Crispy Rosemary Chicken and Fries",
+      "category": "dinner",
+      "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2793307.jpg&w=596&h=792&c=sc&poi=face&q=85",
+      "prepTimeInMinutes": 75,
+      "servings": 6,
+      "ingredients": [
+        "8 chicken thighs",
+        "6 small red potatoes, quartered",
+        "1⁄2 cup extra-virgin olive oil, or as needed",
+        "1 tablespoon chopped fresh rosemary",
+        "1 1⁄2 teaspoons chopped fresh oregano",
+        "1 1⁄2 teaspoons garlic powder salt and pepper to taste"
+      ],
+      "instructions": [
+        "Preheat the oven to 375 degrees F (190 degrees C).",
+        "Place chicken and potatoes into a large bowl. Pour olive oil over them, and stir to coat. Scatter the chicken and potato pieces in a large baking dish, or cookie sheet with sides. Sprinkle with rosemary, oregano, garlic powder, salt and pepper.",
+        "Bake for 1 hour in the preheated oven, uncovered. Baste during the last 15 minutes for extra crispness."
+      ],
+      "sourceUrl": "https://www.allrecipes.com/recipe/77489/crispy-rosemary-chicken-and-fries/",
+      "likes": 3,
+      "saved": false,
+      "id": 5
+    },
+    {
+      "name": "Quinoa Lunch for One",
+      "category": "lunch",
+      "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7186650.jpg&w=596&h=596&c=sc&poi=face&q=85",
+      "prepTimeInMinutes": 30,
+      "servings": 1,
+      "ingredients": [
+        "½ cup water",
+        "½ cup thinly sliced carrots",
+        "¼ cup red quinoa",
+        "½ teaspoon chicken bouillon granules",
+        "1 cup chopped cooked broccoli",
+        "1 cup baby spinach, chopped"
+      ],
+      "instructions": [
+        "Combine water, carrots, quinoa, and chicken bouillon in a medium saucepan over medium heat. Bring to a boil; reduce heat and simmer until nearly all water has been absorbed and outer ring of quinoa grain is visible, 10 to 12 minutes.",
+        "Add broccoli and spinach to the pot, stir, and cover to allow spinach to wilt. Continue to cook until all water is absorbed and vegetables have been heated through, about 5 minutes more.",
+        "Spoon quinoa and veggies into a bowl and serve."
+      ],
+      "sourceUrl": "https://www.allrecipes.com/recipe/275130/quinoa-lunch-for-one/",
+      "likes": 6,
+      "saved": true,
+      "id": 6
+    },
+    {
+      "name": "Toasted Breakfast Burritos",
+      "category": "breakfast",
+      "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2562020.jpg&q=85",
+      "prepTimeInMinutes": 18,
+      "servings": 2,
+      "ingredients": [
+        "1 ½ tablespoons I Can't Believe It's Not Butter!® Spread, divided",
+        "½ cup finely chopped assorted fresh vegetables (peppers, tomatoes and/or green onions)",
+        "2 slices turkey bacon, chopped",
+        "2 each eggs",
+        "1 tablespoon water",
+        "1 tablespoon shredded low-fat Cheddar cheese",
+        "2 (6 inch) fajita size whole wheat tortillas"
+      ],
+      "instructions": [
+        "Melt 1 tablespoon I Can't Believe It's Not Butter!® Spread in medium nonstick skillet over medium-high heat and cook vegetables and bacon, stirring occasionally, until vegetables are tender and bacon is crisp, about 4 minutes.",
+        "Meanwhile, combine eggs and water in small bowl with wire whisk. Add eggs into skillet and stir until eggs are set. Remove egg and vegetable mixture from skillet and evenly divide between tortillas. Top with cheese; then roll.",
+        "To seal and toast burritos, wipe skillet with paper towels and melt remaining 1/2 tablespoon Spread over medium heat. Arrange burritos, seam-side-down and cook, turning once, until golden brown, about 2 minutes."
+      ],
+      "sourceUrl": "https://www.allrecipes.com/recipe/244830/toasted-breakfast-burritos/",
+      "likes": 7,
+      "saved": true,
+      "id": 7
+    },
+    {
+      "name": "Ranch Snack Mix",
+      "category": "snacks",
+      "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7748058.jpg&q=85",
+      "prepTimeInMinutes": 25,
+      "servings": 24,
+      "ingredients": [
+        "4 cups crispy corn and rice cereal (such as Crispix®)",
+        "2 ½ cups small pretzels",
+        "2 ½ cups cheese-flavored crackers (Optional)",
+        "2 cups oyster crackers",
+        "½ cup peanuts (Optional)",
+        "⅔ cup vegetable oil",
+        "1 (1 ounce) package ranch dressing mix",
+        "¼ teaspoon garlic powder"
+      ],
+      "instructions": [
+        "Preheat the oven to 275 degrees F (135 degrees C).",
+        "Combine cereal, pretzels, cheese-flavored crackers, oyster crackers, and peanuts in a large bowl.",
+        "Whisk vegetable oil, ranch dressing mix, and garlic powder together in a small bowl. Pour over cereal mixture and stir until coated. Arrange on a large baking sheet.",
+        "Bake in the preheated oven, stirring gently halfway through, until toasted and fragrant, 15 to 20 minutes."
+      ],
+      "sourceUrl": "https://www.allrecipes.com/recipe/277872/ranch-snack-mix/",
+      "likes": 3,
+      "saved": true,
+      "id": 8
+    }
+  ]
+}
